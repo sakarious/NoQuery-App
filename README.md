@@ -1,6 +1,6 @@
 # Basic Authentication Page
 
-### Link: [Get Rid of Boredom](https://sakarious.github.io/basicAuthPage/)
+### Link: [Basic Auth App](https://sakarious.github.io/basicAuthPage/)
 
 #### This simple application authenticates users without a query language. 
 
