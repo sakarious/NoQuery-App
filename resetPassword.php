@@ -70,12 +70,8 @@
             </tr>
             <tr>
                     <td></td>
-                    <td><input type="submit" value="Submit" name="submit"></td>
+                    <td><input type="submit" value="Reset Password" name="submit"></td>
             </tr>
-            <tr>
-                <td></td>
-                <td><button><a href="register.php">Register</a></button></td>
-        </tr>
         </table>
     </form>
 
