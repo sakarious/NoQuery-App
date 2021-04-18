@@ -44,10 +44,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style/style.css">
-    <title>Document</title>
+    <title>NoQuery App - REGISTER</title>
 </head>
 <body>
-    <h1>Registation Page</h1>
+    <h1>Registration Page</h1>
     <form action="" method="post">
         <table align = "center">
             <tr>
