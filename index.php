@@ -60,7 +60,7 @@
             </tr>
             <tr>
                     <td></td>
-                    <td><input type="submit" value="Submit" name="submit"></td>
+                    <td><input type="submit" value="Login" name="submit"></td>
             </tr>
             <tr>
                 <td></td>
