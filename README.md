@@ -1,6 +1,6 @@
-# Basic Authentication Page
+# NoQuery App
 
-### Link: [Basic Auth App](https://sakarious.github.io/basicAuthPage/)
+### Link: [NoQuery App](https://no-query-app.herokuapp.com/)
 
 #### This simple application authenticates users without a query language. 
 
